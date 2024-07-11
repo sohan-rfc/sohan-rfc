@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohan-rfc
-- 👀 I’m interested in ...
+- 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning Python with Django
 - 💞️ I’m looking to improve my skills
 - 📫 How to reach me ...
